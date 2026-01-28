@@ -8,9 +8,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🤖+Building+Intelligent+Systems+%26+Immersive+Experiences;🎮+AI+%7C+AR/VR+%7C+Unity+%7C+Trading+Systems;🚀+Creator+of+ZAVIO+%7C+LMS+%7C+FinTech+Platforms" alt="Typing SVG" /></a>
 </p>
 
-<!-- Animated Divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 <!-- About Me Section -->
@@ -23,7 +23,7 @@ I build **intelligent systems** and **immersive digital products** at the inters
 <br/>
 
 - 🔭 Creator of **[ZAVIO](https://github.com/Zavmedia/ZAVIO)** - AI Operating Assistant
-- � Building **AR tourism experiences** for Kerala
+- 🎮 Building **AR tourism experiences** for Kerala
 - 📈 Developing **institutional-grade trading AI** platforms
 - 🎓 Creating **Neon Knowledge Nexus** - AI-powered LMS
 - 🏭 Working on **AI in Supply Chain Management**
@@ -49,9 +49,9 @@ I build **intelligent systems** and **immersive digital products** at the inters
   </a>
 </p>
 
-<!-- Animated Divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ## 🚀 What I'm Building
@@ -97,9 +97,9 @@ I build **intelligent systems** and **immersive digital products** at the inters
 </tr>
 </table>
 
-<!-- Animated Divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ## 🛠️ Tech Stack
@@ -164,9 +164,9 @@ I build **intelligent systems** and **immersive digital products** at the inters
   </a>
 </p>
 
-<!-- Animated Divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ## 📚 Currently Learning
@@ -179,9 +179,9 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://img.shields.io/badge/💹_Quantitative-Finance-FFD700?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
-<!-- Animated Divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ## 🔥 Featured Projects
@@ -192,9 +192,9 @@ I build **intelligent systems** and **immersive digital products** at the inters
   </a>
 </p>
 
-<!-- Animated Divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ## 📊 GitHub Stats
@@ -214,9 +214,9 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zavmedia&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" width="100%"/>
 </p>
 
-<!-- Animated Divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ## 🏆 GitHub Trophies
@@ -225,9 +225,9 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://github-profile-trophy.vercel.app/?username=Zavmedia&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
-<!-- Animated Divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ## 🎯 My Focus Areas
@@ -247,9 +247,9 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://img.shields.io/badge/🚀_Startups-Scalable_Products-FFD700?style=for-the-badge"/>
 </p>
 
-<!-- Animated Divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ## 📫 Let's Connect!
