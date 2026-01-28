@@ -1,20 +1,13 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6c5ce7,100:a855f7&height=220&section=header&text=Vishnu%20Prakash&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20•%20AR/VR%20%26%20Unity%20Developer%20•%20Full%20Stack%20Builder&descAlignY=52&descSize=18" width="100%"/>
-</p>
+# 👋 Hi, I'm Vishnu Prakash
 
-<!-- Animated Typing -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🤖+Building+Intelligent+Systems+%26+Immersive+Experiences;🎮+AI+%7C+AR/VR+%7C+Unity+%7C+Trading+Systems;🚀+Creator+of+ZAVIO+%7C+LMS+%7C+FinTech+Platforms" alt="Typing SVG" /></a>
-</p>
+### AI Engineer • AR/VR & Unity Developer • Full Stack Builder
 
-<!-- Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 <!-- About Me Section -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
 
 ## 🧑‍💻 About Me
 
@@ -49,7 +42,6 @@ I build **intelligent systems** and **immersive digital products** at the inters
   </a>
 </p>
 
-<!-- Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
@@ -97,15 +89,13 @@ I build **intelligent systems** and **immersive digital products** at the inters
 </tr>
 </table>
 
-<!-- Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ## 🛠️ Tech Stack
 
-<!-- Languages -->
-<h3 align="center">💻 Languages</h3>
+### 💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -115,8 +105,7 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<!-- Frameworks -->
-<h3 align="center">🚀 Frameworks & Engines</h3>
+### 🚀 Frameworks & Engines
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -126,8 +115,7 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
-<!-- Game & 3D -->
-<h3 align="center">🎮 Game Engines & 3D</h3>
+### 🎮 Game Engines & 3D
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
@@ -136,8 +124,7 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://img.shields.io/badge/XR_Toolkit-8B5CF6?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
-<!-- AI/ML -->
-<h3 align="center">🤖 AI & Machine Learning</h3>
+### 🤖 AI & Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -146,8 +133,7 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-<!-- Tools -->
-<h3 align="center">⚙️ Tools & Platforms</h3>
+### ⚙️ Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -157,14 +143,13 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://img.shields.io/badge/MT5-2962FF?style=for-the-badge&logo=tradingview&logoColor=white"/>
 </p>
 
-<!-- Skill Icons -->
+### 🎯 Skill Icons
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,ts,js,cs,react,nextjs,nodejs,unity,blender,tensorflow,pytorch,docker,git,vscode,figma&theme=dark&perline=8" />
   </a>
 </p>
 
-<!-- Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
@@ -179,7 +164,6 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://img.shields.io/badge/💹_Quantitative-Finance-FFD700?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
-<!-- Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
@@ -192,7 +176,6 @@ I build **intelligent systems** and **immersive digital products** at the inters
   </a>
 </p>
 
-<!-- Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
@@ -214,7 +197,6 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zavmedia&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" width="100%"/>
 </p>
 
-<!-- Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
@@ -225,7 +207,6 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://github-profile-trophy.vercel.app/?username=Zavmedia&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
-<!-- Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
@@ -247,7 +228,6 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://img.shields.io/badge/🚀_Startups-Scalable_Products-FFD700?style=for-the-badge"/>
 </p>
 
-<!-- Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
@@ -274,10 +254,7 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://komarev.com/ghpvc/?username=Zavmedia&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<!-- Animated Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6c5ce7,100:a855f7&height=120&section=footer&animation=twinkling" width="100%"/>
-</p>
+---
 
 <p align="center">
   <b>💙 Thanks for visiting!</b>
