@@ -46,6 +46,31 @@ I build **intelligent systems** and **immersive digital products** at the inters
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
+## 🏅 Certifications & Achievements
+
+### Google Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-Gemini_for_Data_Scientists_&_Analysts-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Workspace-Gemini_in_Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Introduction_to_Generative_AI-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+### Kaggle + Google
+<p align="center">
+  <img src="https://img.shields.io/badge/Kaggle_×_Google-5--Day_AI_Agents_Intensive_Course-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</p>
+
+### Kaggle Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Kaggle-🐍_Python_Coder-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-🍴_Code_Forker-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-🧛_Vampire-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 ## 🚀 What I'm Building
 
 <table>
