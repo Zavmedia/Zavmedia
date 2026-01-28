@@ -229,7 +229,14 @@ I build **intelligent systems** and **immersive digital products** at the inters
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zavmedia&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=Zavmedia&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_Achievements-GitHub_Profile-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⭐_Stars-Earned-00D4FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔥_Commits-Active-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📦_Repos-Creator-6C5CE7?style=for-the-badge"/>
 </p>
 
 <p align="center">
